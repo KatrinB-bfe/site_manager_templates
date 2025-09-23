@@ -1,0 +1,14 @@
+{
+  "deviceTypeName": "8010A",
+  "manufacturerId": "genelec",
+  "climateLoad": 30,
+  "portTypes": [
+    {
+      "portTypeName": "IN",
+      "portTypeDirection": "IN",
+      "portTypeConnector": "XLR3p_f",
+      "compatibleSignalTypes": ["AUDIO_BAL_ANA"]
+    }
+  ],
+  "moduleSlotTypes": []
+}

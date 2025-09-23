@@ -1,0 +1,163 @@
+{
+  "deviceTypeName": "Tio1608-D2",
+  "manufacturerId": "yamaha",
+  "climateLoad": 50,
+  "portTypes": [
+    {
+      "portTypeName": "Dante PRIMARY",
+      "portTypeDirection": "IN",
+      "portTypeConnector": "ETHERCON_f",
+      "compatibleSignalTypes": ["100BASE_TX", "1000BASE_T"]
+    },
+    {
+      "portTypeName": "Dante SECONDARY",
+      "portTypeDirection": "IN",
+      "portTypeConnector": "ETHERCON_f",
+      "compatibleSignalTypes": ["100BASE_TX", "1000BASE_T"]
+    },
+    {
+      "portTypeName": "INPUT 1",
+      "portTypeDirection": "IN",
+      "portTypeConnector": "XLR_635_f",
+      "compatibleSignalTypes": ["AUDIO_BAL_ANA", "AUDIO_MIC", "AUDIO_MIC_48V"]
+    },
+    {
+      "portTypeName": "INPUT 2",
+      "portTypeDirection": "IN",
+      "portTypeConnector": "XLR_635_f",
+      "compatibleSignalTypes": ["AUDIO_BAL_ANA", "AUDIO_MIC", "AUDIO_MIC_48V"]
+    },
+    {
+      "portTypeName": "INPUT 3",
+      "portTypeDirection": "IN",
+      "portTypeConnector": "XLR_635_f",
+      "compatibleSignalTypes": ["AUDIO_BAL_ANA", "AUDIO_MIC", "AUDIO_MIC_48V"]
+    },
+    {
+      "portTypeName": "INPUT 4",
+      "portTypeDirection": "IN",
+      "portTypeConnector": "XLR_635_f",
+      "compatibleSignalTypes": ["AUDIO_BAL_ANA", "AUDIO_MIC", "AUDIO_MIC_48V"]
+    },
+    {
+      "portTypeName": "INPUT 5",
+      "portTypeDirection": "IN",
+      "portTypeConnector": "XLR_635_f",
+      "compatibleSignalTypes": ["AUDIO_BAL_ANA", "AUDIO_MIC", "AUDIO_MIC_48V"]
+    },
+    {
+      "portTypeName": "INPUT 6",
+      "portTypeDirection": "IN",
+      "portTypeConnector": "XLR_635_f",
+      "compatibleSignalTypes": ["AUDIO_BAL_ANA", "AUDIO_MIC", "AUDIO_MIC_48V"]
+    },
+    {
+      "portTypeName": "INPUT 7",
+      "portTypeDirection": "IN",
+      "portTypeConnector": "XLR_635_f",
+      "compatibleSignalTypes": ["AUDIO_BAL_ANA", "AUDIO_MIC", "AUDIO_MIC_48V"]
+    },
+    {
+      "portTypeName": "INPUT 8",
+      "portTypeDirection": "IN",
+      "portTypeConnector": "XLR_635_f",
+      "compatibleSignalTypes": ["AUDIO_BAL_ANA", "AUDIO_MIC", "AUDIO_MIC_48V"]
+    },
+    {
+      "portTypeName": "INPUT 9",
+      "portTypeDirection": "IN",
+      "portTypeConnector": "XLR_635_f",
+      "compatibleSignalTypes": ["AUDIO_BAL_ANA", "AUDIO_MIC", "AUDIO_MIC_48V"]
+    },
+    {
+      "portTypeName": "INPUT 10",
+      "portTypeDirection": "IN",
+      "portTypeConnector": "XLR_635_f",
+      "compatibleSignalTypes": ["AUDIO_BAL_ANA", "AUDIO_MIC", "AUDIO_MIC_48V"]
+    },
+    {
+      "portTypeName": "INPUT 11",
+      "portTypeDirection": "IN",
+      "portTypeConnector": "XLR_635_f",
+      "compatibleSignalTypes": ["AUDIO_BAL_ANA", "AUDIO_MIC", "AUDIO_MIC_48V"]
+    },
+    {
+      "portTypeName": "INPUT 12",
+      "portTypeDirection": "IN",
+      "portTypeConnector": "XLR_635_f",
+      "compatibleSignalTypes": ["AUDIO_BAL_ANA", "AUDIO_MIC", "AUDIO_MIC_48V"]
+    },
+    {
+      "portTypeName": "INPUT 13",
+      "portTypeDirection": "IN",
+      "portTypeConnector": "XLR_635_f",
+      "compatibleSignalTypes": ["AUDIO_BAL_ANA", "AUDIO_MIC", "AUDIO_MIC_48V"]
+    },
+    {
+      "portTypeName": "INPUT 14",
+      "portTypeDirection": "IN",
+      "portTypeConnector": "XLR_635_f",
+      "compatibleSignalTypes": ["AUDIO_BAL_ANA", "AUDIO_MIC", "AUDIO_MIC_48V"]
+    },
+    {
+      "portTypeName": "INPUT 15",
+      "portTypeDirection": "IN",
+      "portTypeConnector": "XLR_635_f",
+      "compatibleSignalTypes": ["AUDIO_BAL_ANA", "AUDIO_MIC", "AUDIO_MIC_48V"]
+    },
+    {
+      "portTypeName": "INPUT 16",
+      "portTypeDirection": "IN",
+      "portTypeConnector": "XLR_635_f",
+      "compatibleSignalTypes": ["AUDIO_BAL_ANA", "AUDIO_MIC", "AUDIO_MIC_48V"]
+    },
+    {
+      "portTypeName": "OUTPUT 1",
+      "portTypeDirection": "OUT",
+      "portTypeConnector": "XLR3p_m",
+      "compatibleSignalTypes": ["AUDIO_BAL_ANA"]
+    },
+    {
+      "portTypeName": "OUTPUT 2",
+      "portTypeDirection": "OUT",
+      "portTypeConnector": "XLR3p_m",
+      "compatibleSignalTypes": ["AUDIO_BAL_ANA"]
+    },
+    {
+      "portTypeName": "OUTPUT 3",
+      "portTypeDirection": "OUT",
+      "portTypeConnector": "XLR3p_m",
+      "compatibleSignalTypes": ["AUDIO_BAL_ANA"]
+    },
+    {
+      "portTypeName": "OUTOUT 4",
+      "portTypeDirection": "OUT",
+      "portTypeConnector": "XLR3p_m",
+      "compatibleSignalTypes": ["AUDIO_BAL_ANA"]
+    },
+    {
+      "portTypeName": "OUTPUT 5",
+      "portTypeDirection": "OUT",
+      "portTypeConnector": "XLR3p_m",
+      "compatibleSignalTypes": ["AUDIO_BAL_ANA"]
+    },
+    {
+      "portTypeName": "OUTPUT 6",
+      "portTypeDirection": "OUT",
+      "portTypeConnector": "XLR3p_m",
+      "compatibleSignalTypes": ["AUDIO_BAL_ANA"]
+    },
+    {
+      "portTypeName": "OUTPUT 7",
+      "portTypeDirection": "OUT",
+      "portTypeConnector": "XLR3p_m",
+      "compatibleSignalTypes": ["AUDIO_BAL_ANA"]
+    },
+    {
+      "portTypeName": "OUTPUT 8",
+      "portTypeDirection": "OUT",
+      "portTypeConnector": "XLR3p_m",
+      "compatibleSignalTypes": ["AUDIO_BAL_ANA"]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "deviceTypeName": "MD 421 Kompakt",
+  "manufacturerId": "sennheiser",
+  "climateLoad": 0,
+  "portTypes": [
+    {
+      "portTypeName": "MIC Out",
+      "portTypeDirection": "OUT",
+      "portTypeConnector": "XLR3p_m",
+      "compatibleSignalTypes": ["AUDIO_MIC"]
+    }
+  ]
+}
