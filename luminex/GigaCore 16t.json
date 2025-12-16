@@ -5,97 +5,97 @@
   "portTypes": [
     {
       "portTypeName": "1",
-      "portTypeDirection": "OUT",
+      "portTypeDirection": "DOWN",
       "portTypeConnector": "ETHERCON_f",
       "compatibleSignalTypes": ["10BASE_T", "100BASE_TX", "1000BASE_T"]
     },
     {
       "portTypeName": "2",
-      "portTypeDirection": "OUT",
+      "portTypeDirection": "DOWN",
       "portTypeConnector": "ETHERCON_f",
       "compatibleSignalTypes": ["10BASE_T", "100BASE_TX", "1000BASE_T"]
     },
     {
       "portTypeName": "3",
-      "portTypeDirection": "OUT",
+      "portTypeDirection": "DOWN",
       "portTypeConnector": "ETHERCON_f",
       "compatibleSignalTypes": ["10BASE_T", "100BASE_TX", "1000BASE_T"]
     },
     {
       "portTypeName": "4",
-      "portTypeDirection": "OUT",
+      "portTypeDirection": "DOWN",
       "portTypeConnector": "ETHERCON_f",
       "compatibleSignalTypes": ["10BASE_T", "100BASE_TX", "1000BASE_T"]
     },
     {
       "portTypeName": "5",
-      "portTypeDirection": "OUT",
+      "portTypeDirection": "DOWN",
       "portTypeConnector": "ETHERCON_f",
       "compatibleSignalTypes": ["10BASE_T", "100BASE_TX", "1000BASE_T"]
     },
     {
       "portTypeName": "6",
-      "portTypeDirection": "OUT",
+      "portTypeDirection": "DOWN",
       "portTypeConnector": "ETHERCON_f",
       "compatibleSignalTypes": ["10BASE_T", "100BASE_TX", "1000BASE_T"]
     },
     {
       "portTypeName": "7",
-      "portTypeDirection": "OUT",
+      "portTypeDirection": "DOWN",
       "portTypeConnector": "ETHERCON_f",
       "compatibleSignalTypes": ["10BASE_T", "100BASE_TX", "1000BASE_T"]
     },
     {
       "portTypeName": "8",
-      "portTypeDirection": "OUT",
+      "portTypeDirection": "DOWN",
       "portTypeConnector": "ETHERCON_f",
       "compatibleSignalTypes": ["10BASE_T", "100BASE_TX", "1000BASE_T"]
     },
     {
       "portTypeName": "9",
-      "portTypeDirection": "OUT",
+      "portTypeDirection": "DOWN",
       "portTypeConnector": "RJ45_f",
       "compatibleSignalTypes": ["10BASE_T", "100BASE_TX", "1000BASE_T"]
     },
     {
       "portTypeName": "10",
-      "portTypeDirection": "OUT",
+      "portTypeDirection": "DOWN",
       "portTypeConnector": "RJ45_f",
       "compatibleSignalTypes": ["10BASE_T", "100BASE_TX", "1000BASE_T"]
     },
     {
       "portTypeName": "11",
-      "portTypeDirection": "OUT",
+      "portTypeDirection": "DOWN",
       "portTypeConnector": "RJ45_f",
       "compatibleSignalTypes": ["10BASE_T", "100BASE_TX", "1000BASE_T"]
     },
     {
       "portTypeName": "12",
-      "portTypeDirection": "OUT",
+      "portTypeDirection": "DOWN",
       "portTypeConnector": "RJ45_f",
       "compatibleSignalTypes": ["10BASE_T", "100BASE_TX", "1000BASE_T"]
     },
     {
       "portTypeName": "13",
-      "portTypeDirection": "OUT",
+      "portTypeDirection": "DOWN",
       "portTypeConnector": "RJ45_f",
       "compatibleSignalTypes": ["10BASE_T", "100BASE_TX", "1000BASE_T"]
     },
     {
       "portTypeName": "14",
-      "portTypeDirection": "OUT",
+      "portTypeDirection": "DOWN",
       "portTypeConnector": "RJ45_f",
       "compatibleSignalTypes": ["10BASE_T", "100BASE_TX", "1000BASE_T"]
     },
     {
       "portTypeName": "15",
-      "portTypeDirection": "OUT",
+      "portTypeDirection": "DOWN",
       "portTypeConnector": "RJ45_f",
       "compatibleSignalTypes": ["10BASE_T", "100BASE_TX", "1000BASE_T"]
     },
     {
       "portTypeName": "16",
-      "portTypeDirection": "OUT",
+      "portTypeDirection": "DOWN",
       "portTypeConnector": "RJ45_f",
       "compatibleSignalTypes": ["10BASE_T", "100BASE_TX", "1000BASE_T"]
     }

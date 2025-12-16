@@ -7,7 +7,7 @@
   "portTypes": [
     {
       "portTypeName": "",
-      "portTypeDirection": "IN",
+      "portTypeDirection": "UP",
       "portTypeConnector": "RJ45_f",
       "compatibleSignalTypes": ["100BASE_TX", "1000BASE_T"]
     }
