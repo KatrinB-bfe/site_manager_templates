@@ -1,0 +1,23 @@
+{
+  "version": "1.0",
+  "id": "lawo-dante-io",
+  "name": "DANTE I/O",
+  "orderCode": null,
+  "orderNumber": "710/55",
+  "moduleFormFactor": "lawo-powercore-io",
+  "manufacturerId": "lawo",
+  "portTypes": [
+    {
+      "name": "PRIMARY",
+      "direction": "IN",
+      "connector": "RJ45_f",
+      "compatibleSignalTypes": ["1000BASE_T"]
+    },
+    {
+      "name": "SECONDARY",
+      "direction": "IN",
+      "connector": "RJ45_f",
+      "compatibleSignalTypes": ["1000BASE_T"]
+    }
+  ]
+}

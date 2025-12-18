@@ -1,0 +1,17 @@
+{
+  "version": "1.0",
+  "id": "lawo-line-out",
+  "name": "LINE OUT",
+  "orderCode": null,
+  "orderNumber": "710/30",
+  "moduleFormFactor": "lawo-powercore-io",
+  "manufacturerId": "lawo",
+  "portTypes": [
+    {
+      "name": "LINE OUT",
+      "direction": "OUT",
+      "connector": "DSUB25p_f",
+      "compatibleSignalTypes": ["AES59_ANA"]
+    }
+  ]
+}

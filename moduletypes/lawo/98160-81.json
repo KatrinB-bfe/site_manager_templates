@@ -1,0 +1,17 @@
+{
+  "version": "1.0",
+  "id": "lawo-98160-81",
+  "name": "981/60-81",
+  "orderCode": null,
+  "orderNumber": "981/60-81",
+  "moduleFormFactor": "sfp",
+  "manufacturerId": "lawo",
+  "portTypes": [
+    {
+      "name": "",
+      "direction": "IN",
+      "connector": "LC_DPLX_PC_SM_f",
+      "compatibleSignalTypes": ["MADI_SM_1310"]
+    }
+  ]
+}

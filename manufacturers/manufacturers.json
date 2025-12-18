@@ -1,0 +1,52 @@
+[
+  {
+    "id": "blackmagic",
+    "name": "Blackmagic Design Pty. Ltd.",
+    "nameShort": "Blackmagic"
+  },
+  {
+    "id": "directout",
+    "name": "DirectOut GmbH",
+    "nameShort": "DirectOut"
+  },
+  {
+    "id": "fs",
+    "name": "FS.COM INC.",
+    "nameShort": "FS"
+  },
+  {
+    "id": "genelec",
+    "name": "Genelec Oy",
+    "nameShort": "Genelec"
+  },
+  {
+    "id": "imagine",
+    "name": "Imagine Communications Corp.",
+    "nameShort": "Imagine"
+  },
+  {
+    "id": "lake-people",
+    "name": "Lake People electronic GmbH",
+    "nameShort": "Lake People"
+  },
+  {
+    "id": "lawo",
+    "name": "Lawo AG",
+    "nameShort": "Lawo"
+  },
+  {
+    "id": "luminex",
+    "name": "Luminex Network Intelligence",
+    "nameShort": "Luminex"
+  },
+  {
+    "id": "sennheiser",
+    "name": "Sennheiser electronic SE & Co. KG",
+    "nameShort": "Sennheiser"
+  },
+  {
+    "id": "yamaha",
+    "name": "Yamaha Corporation",
+    "nameShort": "Yamaha"
+  }
+]

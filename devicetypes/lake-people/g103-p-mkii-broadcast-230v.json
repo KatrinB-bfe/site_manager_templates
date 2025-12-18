@@ -1,0 +1,35 @@
+{
+  "version": "1.0",
+  "id": "lake-people-g103-p-mkII-broadcast-230v",
+  "name": "G103-P MKII Broadcast Version (230 V)",
+  "manufacturerId": "lake-people",
+  "orderCode": null,
+  "orderNumber": "1008574",
+  "climateLoad": 57.5,
+  "portTypes": [
+    {
+      "name": "BALANCED IN LEFT",
+      "direction": "IN",
+      "connector": "XLR3p_f",
+      "compatibleSignalTypes": ["AUDIO_BAL_ANA"]
+    },
+    {
+      "name": "BALANCED IN RIGHT",
+      "direction": "IN",
+      "connector": "XLR3p_f",
+      "compatibleSignalTypes": ["AUDIO_BAL_ANA"]
+    },
+    {
+      "name": "Headphones",
+      "direction": "OUT",
+      "connector": "TRS_635_f",
+      "compatibleSignalTypes": ["PHONES_ANA"]
+    },
+    {
+      "name": "Headphones",
+      "direction": "OUT",
+      "connector": "TRS_635_f",
+      "compatibleSignalTypes": ["PHONES_ANA"]
+    }
+  ]
+}

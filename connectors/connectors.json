@@ -1,0 +1,234 @@
+[
+  {
+    "id": "BNC_f",
+    "name": "BNC 75 Ohm female",
+    "gender": "FEMALE",
+    "icon": "BNC_f",
+    "compatibleConnectors": ["BNC_m"]
+  },
+  {
+    "id": "BNC_m",
+    "name": "BNC 75 Ohm male",
+    "gender": "MALE",
+    "icon": "BNC_m",
+    "compatibleConnectors": ["BNC_f"]
+  },
+  {
+    "id": "HD_BNC_f",
+    "name": "HD-BNC 75 Ohm female",
+    "gender": "FEMALE",
+    "icon": "HD_BNC_f",
+    "compatibleConnectors": ["HD_BNC_m"]
+  },
+  {
+    "id": "HD_BNC_m",
+    "name": "HD-BNC 75 Ohm male",
+    "gender": "MALE",
+    "icon": "HD_BNC_m",
+    "compatibleConnectors": ["HD_BNC_f"]
+  },
+  {
+    "id": "DSUB9p_f",
+    "name": "D-Sub 9p female",
+    "gender": "FEMALE",
+    "icon": "DSUB9p_f",
+    "compatibleConnectors": ["DSUB9p_m"]
+  },
+  {
+    "id": "DSUB9p_m",
+    "name": "D-Sub 9p male",
+    "gender": "MALE",
+    "icon": "DSUB9p_m",
+    "compatibleConnectors": ["DSUB9p_f"]
+  },
+  {
+    "id": "DSUB25p_f",
+    "name": "D-Sub 25p female",
+    "gender": "FEMALE",
+    "icon": "DSUB25p_f",
+    "compatibleConnectors": ["DSUB25p_m"]
+  },
+  {
+    "id": "DSUB25p_m",
+    "name": "D-Sub 25p male",
+    "gender": "MALE",
+    "icon": "DSUB25p_m",
+    "compatibleConnectors": ["DSUB25p_f"]
+  },
+  {
+    "id": "DSUB37p_f",
+    "name": "D-Sub 37p female",
+    "gender": "FEMALE",
+    "icon": "DSUB37p_f",
+    "compatibleConnectors": ["DSUB37p_m"]
+  },
+  {
+    "id": "DSUB37p_m",
+    "name": "D-Sub 37p male",
+    "gender": "MALE",
+    "icon": "DSUB37p_m",
+    "compatibleConnectors": ["DSUB37p_f"]
+  },
+  {
+    "id": "ETHERCON_f",
+    "name": "ETHERCON female",
+    "gender": "FEMALE",
+    "icon": "ETHERCON_f",
+    "compatibleConnectors": ["RJ45_m", "ETHERCON_m"]
+  },
+  {
+    "id": "ETHERCON_m",
+    "name": "ETHERCON male",
+    "gender": "MALE",
+    "icon": "ETHERCON_m",
+    "compatibleConnectors": ["ETHERCON_f"]
+  },
+
+  {
+    "id": "LC_DPLX_PC_MM_f",
+    "name": "LC Duplex, PC, MM female",
+    "gender": "FEMALE",
+    "icon": "LCDPLX_f",
+    "compatibleConnectors": ["LC_DPLX_PC_MM_m"]
+  },
+  {
+    "id": "LC_DPLX_PC_MM_m",
+    "name": "LC Duplex, PC, MM male",
+    "gender": "MALE",
+    "icon": "LCDPLX_m",
+    "compatibleConnectors": ["LC_DPLX_PC_MM_f"]
+  },
+  {
+    "id": "LC_DPLX_PC_SM_f",
+    "name": "LC Duplex, PC, SM female",
+    "gender": "FEMALE",
+    "icon": "LCDPLX_f",
+    "compatibleConnectors": ["LC_DPLX_PC_SM_m"]
+  },
+  {
+    "id": "LC_DPLX_PC_SM_m",
+    "name": "LC Duplex, PC, SM male",
+    "gender": "MALE",
+    "icon": "LCDPLX_m",
+    "compatibleConnectors": ["LC_DPLX_PC_SM_f"]
+  },
+  {
+    "id": "RJ45_f",
+    "name": "RJ45 female",
+    "gender": "FEMALE",
+    "icon": "RJ45_f",
+    "compatibleConnectors": ["RJ45_m"]
+  },
+  {
+    "id": "RJ45_m",
+    "name": "RJ45 male",
+    "gender": "MALE",
+    "icon": "RJ45_m",
+    "compatibleConnectors": ["RJ45_f", "ETHERCON_f"]
+  },
+  {
+    "id": "USB2.0A_f",
+    "name": "USB 2.0 A female",
+    "gender": "FEMALE",
+    "icon": "USB2.0A_f",
+    "compatibleConnectors": ["USB2.0A_m"]
+  },
+  {
+    "id": "USB2.0A_m",
+    "name": "USB 2.0 A male",
+    "gender": "MALE",
+    "icon": "USB2.0A_m",
+    "compatibleConnectors": ["USB2.0A_f"]
+  },
+  {
+    "id": "USB2.0B_f",
+    "name": "USB 2.0 B female",
+    "gender": "FEMALE",
+    "icon": "USB2.0B_f",
+    "compatibleConnectors": ["USB2.0B_m"]
+  },
+  {
+    "id": "USB2.0B_m",
+    "name": "USB 2.0 B male",
+    "gender": "MALE",
+    "icon": "USB2.0B_m",
+    "compatibleConnectors": ["USB2.0B_f"]
+  },
+  {
+    "id": "USBC_f",
+    "name": "USB Type C female",
+    "gender": "FEMALE",
+    "icon": "USBC_f",
+    "compatibleConnectors": ["USBC_m"]
+  },
+  {
+    "id": "USBC_m",
+    "name": "USB Type C male",
+    "gender": "MALE",
+    "icon": "USBC_m",
+    "compatibleConnectors": ["USBC_f"]
+  },
+  {
+    "id": "XLR3p_f",
+    "name": "XLR 3pole female",
+    "gender": "FEMALE",
+    "icon": "XLR3p_f",
+    "compatibleConnectors": ["XLR3p_m"]
+  },
+  {
+    "id": "XLR3p_m",
+    "name": "XLR 3pole male",
+    "gender": "MALE",
+    "icon": "XLR3p_m",
+    "compatibleConnectors": ["XLR3p_f", "XLR_635_f"]
+  },
+  {
+    "id": "XLR_635_f",
+    "name": "XLR/6.35mm Combo",
+    "gender": "FEMALE",
+    "icon": "XLR_635_f",
+    "compatibleConnectors": ["TRS_635_m", "XLR3p_m"]
+  },
+  {
+    "id": "XLR5p_f",
+    "name": "XLR 5pole female",
+    "gender": "FEMALE",
+    "icon": "XLR5p_f",
+    "compatibleConnectors": ["XLR5p_m"]
+  },
+  {
+    "id": "XLR5p_m",
+    "name": "XLR 5pole male",
+    "gender": "MALE",
+    "icon": "XLR5p_m",
+    "compatibleConnectors": ["XLR5p_f"]
+  },
+  {
+    "id": "TRS_35_f",
+    "name": "TRS 3.5mm female",
+    "gender": "FEMALE",
+    "icon": "TRS_35_f",
+    "compatibleConnectors": ["TRS_35_m"]
+  },
+  {
+    "id": "TRS_35_m",
+    "name": "TRS 3.5mm male",
+    "gender": "MALE",
+    "icon": "TRS_35_m",
+    "compatibleConnectors": ["TRS_35_f"]
+  },
+  {
+    "id": "TRS_635_f",
+    "name": "TRS 6.35mm female",
+    "gender": "FEMALE",
+    "icon": "TRS_635_f",
+    "compatibleConnectors": ["TRS_635_m"]
+  },
+  {
+    "id": "TRS_635_m",
+    "name": "TRS 6.35mm male",
+    "gender": "MALE",
+    "icon": "TRS_635_m",
+    "compatibleConnectors": ["TRS_635_f"]
+  }
+]

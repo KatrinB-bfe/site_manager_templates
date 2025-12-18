@@ -1,0 +1,52 @@
+[
+  {
+    "id": "keystone",
+    "name": "Keystone",
+    "description": "Keystone module used primarily for patch panels"
+  },
+  {
+    "id": "sfp",
+    "name": "SFP",
+    "description": "Small Formfactor Pluggable according to SFF Commttee specification INF-8074i"
+  },
+  {
+    "id": "sfpplus",
+    "name": "SFP+",
+    "description": "Enhanced Small Formfactor Pluggable according to SFF Commttee specification SFF-8431"
+  },
+  {
+    "id": "sfp28",
+    "name": "SFP28",
+    "description": ""
+  },
+  {
+    "id": "qsfpplus",
+    "name": "QSFP+",
+    "description": ""
+  },
+  {
+    "id": "qsfp28",
+    "name": "QSFP28",
+    "description": ""
+  },
+  {
+    "id": "directout-a-slot",
+    "name": "A Slot",
+    "description": "Audio network modules used by DirectOut"
+  },
+  {
+    "id": "directout-b-slot",
+    "name": "B Slot",
+    "description": "MADI modules used by DirectOut"
+  },
+  {
+    "id": "directout-c-slot",
+    "name": "C Slot",
+    "description": "Base band modules used by DirectOut"
+  },
+  {
+    "id": "lawo-powercore-io",
+    "name": "Expansion I/O",
+    "description": "Expansion I/O used by Lawo for their Power Core product line"
+  }
+]

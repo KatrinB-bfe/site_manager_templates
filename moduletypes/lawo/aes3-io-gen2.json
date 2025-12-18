@@ -1,0 +1,17 @@
+{
+  "version": "1.0",
+  "id": "lawo-aes3-io-gen2",
+  "name": "AES3 I/O (710/41)",
+  "orderCode": null,
+  "orderNumber": "710/41",
+  "moduleFormFactor": "lawo-powercore-io",
+  "manufacturerId": "lawo",
+  "portTypes": [
+    {
+      "name": "AES3 I/O",
+      "direction": "BIDI",
+      "connector": "DSUB25p_f",
+      "compatibleSignalTypes": ["AES59_DIGI_IO"]
+    }
+  ]
+}

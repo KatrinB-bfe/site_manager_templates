@@ -1,0 +1,142 @@
+[
+  {
+    "id": "10BASE_T",
+    "name": "10BASE-T",
+    "description": "IEEE 802.3i-1990"
+  },
+  {
+    "id": "100BASE_TX",
+    "name": "100BASE-TX",
+    "description": "IEEE 802.3u-1995"
+  },
+  {
+    "id": "1000BASE_T",
+    "name": "1000BASE-T",
+    "description": "IEEE 802.3ab-1999"
+  },
+  {
+    "id": "10GBASE_T",
+    "name": "10GBASE-T",
+    "description": "IEEE 802.3an-2006"
+  },
+  {
+    "id": "SDI_SD_CU",
+    "name": "SD-SDI",
+    "description": "SMPTE 259M"
+  },
+  {
+    "id": "SDI_HD_CU",
+    "name": "HD-SDI",
+    "description": "SMPTE 292M"
+  },
+  {
+    "id": "SDI_3G_CU",
+    "name": "3G-SDI",
+    "description": "SMPTE 424M"
+  },
+  {
+    "id": "SDI_6G_CU",
+    "name": "6G-SDI",
+    "description": "SMPTE ST 2081"
+  },
+  {
+    "id": "SDI_12G_CU",
+    "name": "12G-SDI",
+    "description": "SMPTE ST 2082"
+  },
+  {
+    "id": "DVB_ASI",
+    "name": "DVB-ASI",
+    "description": "EN 50083-9"
+  },
+  {
+    "id": "BLACK_BURST",
+    "name": "Black burst",
+    "description": ""
+  },
+  {
+    "id": "TRI_SYNC",
+    "name": "Tri-level Sync",
+    "description": ""
+  },
+  {
+    "id": "AUDIO_UNBAL_ANA",
+    "name": "Unbalanced Analog Audio",
+    "description": ""
+  },
+  {
+    "id": "AUDIO_BAL_ANA",
+    "name": "Balanced Analog Audio",
+    "description": ""
+  },
+  {
+    "id": "AUDIO_MIC",
+    "name": "Balanced Microphone",
+    "description": ""
+  },
+  {
+    "id": "AUDIO_MIC_48V",
+    "name": "Balanced Microphone w/ +48V",
+    "description": ""
+  },
+  {
+    "id": "PHONES_ANA",
+    "name": "Analog Headphones",
+    "description": ""
+  },
+  {
+    "id": "AES3",
+    "name": "AES3 Balanced",
+    "description": ""
+  },
+  {
+    "id": "AES3ID",
+    "name": "AES3 Unbalanced",
+    "description": ""
+  },
+  {
+    "id": "AES59_ANA",
+    "name": "AES59 Analog Audio",
+    "description": ""
+  },
+  {
+    "id": "AES59_DIGI",
+    "name": "AES59 Digital Audio",
+    "description": ""
+  },
+  {
+    "id": "AES59_DIGI_IO",
+    "name": "AES59 Digital Combined I/O",
+    "description": ""
+  },
+  {
+    "id": "MADI_CU",
+    "name": "MADI, Coaxial",
+    "description": ""
+  },
+  {
+    "id": "MADI_MM_1310",
+    "name": "MADI, MM, 1310nm",
+    "description": ""
+  },
+  {
+    "id": "MADI_SM_1310",
+    "name": "MADI, SM, 1310nm",
+    "description": ""
+  },
+  {
+    "id": "WCLK",
+    "name": "Wordclock",
+    "description": ""
+  },
+  {
+    "id": "USB_2",
+    "name": "USB 2.0",
+    "description": ""
+  },
+  {
+    "id": "GPIO",
+    "name": "GPIO",
+    "description": ""
+  }
+]
