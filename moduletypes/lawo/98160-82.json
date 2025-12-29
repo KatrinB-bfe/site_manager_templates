@@ -4,19 +4,19 @@
   "id": "lawo-98160-82",
   "orderCode": null,
   "orderNumber": "981/60-82",
-  "moduleFormFactor": "sfp",
+  "moduleFormFactorId": "sfp",
   "manufacturerId": "lawo",
   "portTypes": [
     {
       "name": "",
       "direction": "IN",
-      "connector": "HD_BNC_f",
+      "connectorId": "HD_BNC_f",
       "compatibleSignalTypes": ["MADI_CU"]
     },
     {
       "name": "",
       "direction": "OUT",
-      "connector": "HD_BNC_f",
+      "connectorId": "HD_BNC_f",
       "compatibleSignalTypes": ["MADI_CU"]
     }
   ]

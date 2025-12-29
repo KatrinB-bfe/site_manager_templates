@@ -5,30 +5,30 @@
   "manufacturerId": "lake-people",
   "orderCode": null,
   "orderNumber": "1008574",
-  "climateLoad": 57.5,
+  "climateLoad": 58,
   "portTypes": [
     {
       "name": "BALANCED IN LEFT",
       "direction": "IN",
-      "connector": "XLR3p_f",
+      "connectorId": "XLR3p_f",
       "compatibleSignalTypes": ["AUDIO_BAL_ANA"]
     },
     {
       "name": "BALANCED IN RIGHT",
       "direction": "IN",
-      "connector": "XLR3p_f",
+      "connectorId": "XLR3p_f",
       "compatibleSignalTypes": ["AUDIO_BAL_ANA"]
     },
     {
       "name": "Headphones",
       "direction": "OUT",
-      "connector": "TRS_635_f",
+      "connectorId": "TRS_635_f",
       "compatibleSignalTypes": ["PHONES_ANA"]
     },
     {
       "name": "Headphones",
       "direction": "OUT",
-      "connector": "TRS_635_f",
+      "connectorId": "TRS_635_f",
       "compatibleSignalTypes": ["PHONES_ANA"]
     }
   ]

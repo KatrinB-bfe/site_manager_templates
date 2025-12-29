@@ -10,7 +10,7 @@
     {
       "name": "ANALOG IN",
       "direction": "IN",
-      "connector": "XLR3p_f",
+      "connectorId": "XLR3p_f",
       "compatibleSignalTypes": ["AUDIO_BAL_ANA"]
     }
   ]

@@ -4,13 +4,13 @@
   "name": "MIC/LINE IN",
   "orderCode": null,
   "orderNumber": "710/20",
-  "moduleFormFactor": "lawo-powercore-io",
+  "moduleFormFactorId": "lawo-powercore-io",
   "manufacturerId": "lawo",
   "portTypes": [
     {
       "name": "MIC/LINE",
       "direction": "IN",
-      "connector": "DSUB25p_f",
+      "connectorId": "DSUB25p_f",
       "compatibleSignalTypes": ["AES59_ANA"]
     }
   ]

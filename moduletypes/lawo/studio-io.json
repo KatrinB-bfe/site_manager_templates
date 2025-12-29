@@ -4,13 +4,13 @@
   "name": "STUDIO I/O",
   "orderCode": null,
   "orderNumber": "710/35",
-  "moduleFormFactor": "lawo-powercore-io",
+  "moduleFormFactorId": "lawo-powercore-io",
   "manufacturerId": "lawo",
   "portTypes": [
     {
       "name": "STUDIO I/O",
       "direction": "BIDI",
-      "connector": "DSUB25p_f",
+      "connectorId": "DSUB25p_f",
       "compatibleSignalTypes": []
     }
   ]

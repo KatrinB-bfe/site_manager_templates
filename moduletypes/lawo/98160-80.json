@@ -4,13 +4,13 @@
   "name": "981/60-80",
   "orderCode": null,
   "orderNumber": "981/60-80",
-  "moduleFormFactor": "sfp",
+  "moduleFormFactorId": "sfp",
   "manufacturerId": "lawo",
   "portTypes": [
     {
       "name": "",
       "direction": "IN",
-      "connector": "LC_DPLX_PC_MM_f",
+      "connectorId": "LC_DPLX_PC_MM_f",
       "compatibleSignalTypes": ["MADI_MM_1310"]
     }
   ]

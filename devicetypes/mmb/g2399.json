@@ -10,19 +10,19 @@
     {
       "name": "USB",
       "direction": "IN",
-      "connector": "USB2.0B_f",
+      "connectorId": "USB2.0B_f",
       "compatibleSignalTypes": ["USB_2"]
     },
     {
       "name": "OPTICAL",
       "direction": "IN",
-      "connector": "JIS_F05_f",
+      "connectorId": "JIS_F05_f",
       "compatibleSignalTypes": ["TOSLINK"]
     },
     {
       "name": "AES",
       "direction": "OUT",
-      "connector": "XLR3p_m",
+      "connectorId": "XLR3p_m",
       "compatibleSignalTypes": ["AES3"]
     }
   ]

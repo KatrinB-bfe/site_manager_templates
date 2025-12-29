@@ -4,7 +4,7 @@
   "name": "MADI I/O",
   "orderCode": null,
   "orderNumber": "710/50",
-  "moduleFormFactor": "lawo-powercore-io",
+  "moduleFormFactorId": "lawo-powercore-io",
   "manufacturerId": "lawo",
   "portTypes": [],
   "moduleSlotTypes": [

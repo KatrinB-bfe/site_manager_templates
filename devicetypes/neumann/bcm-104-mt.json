@@ -10,7 +10,7 @@
     {
       "name": "Out",
       "direction": "OUT",
-      "connector": "XLR3p_m",
+      "connectorId": "XLR3p_m",
       "compatibleSignalTypes": ["AUDIO_MIC_48V"]
     }
   ]

@@ -1,58 +1,58 @@
 {
   "version": "1.0",
-  "moduleTypeId": "lawo-aes3id-io",
+  "id": "lawo-aes3id-io",
   "name": "AES3id I/O",
   "orderCode": null,
   "orderNumber": "710/42",
-  "moduleFormFactor": "lawo-powercore-io",
+  "moduleFormFactorId": "lawo-powercore-io",
   "manufacturerId": "lawo",
   "portTypes": [
     {
       "name": "INPUT 1",
       "direction": "IN",
-      "portTypeConnector": "HD_BNC_f",
+      "connectorId": "HD_BNC_f",
       "compatibleSignalTypes": ["AES3ID"]
     },
     {
       "name": "INPUT 2",
       "direction": "IN",
-      "connector": "HD_BNC_f",
+      "connectorId": "HD_BNC_f",
       "compatibleSignalTypes": ["AES3ID"]
     },
     {
       "name": "INPUT 3",
       "direction": "IN",
-      "connector": "HD_BNC_f",
+      "connectorId": "HD_BNC_f",
       "compatibleSignalTypes": ["AES3ID"]
     },
     {
       "name": "INPUT 4",
       "direction": "IN",
-      "connector": "HD_BNC_f",
+      "connectorId": "HD_BNC_f",
       "compatibleSignalTypes": ["AES3ID"]
     },
     {
       "name": "OUTPUT 1",
       "direction": "OUT",
-      "connector": "HD_BNC_f",
+      "connectorId": "HD_BNC_f",
       "compatibleSignalTypes": ["AES3ID"]
     },
     {
       "name": "OUTPUT 2",
       "direction": "OUT",
-      "connector": "HD_BNC_f",
+      "connectorId": "HD_BNC_f",
       "compatibleSignalTypes": ["AES3ID"]
     },
     {
       "name": "OUTPUT 3",
       "direction": "OUT",
-      "connector": "HD_BNC_f",
+      "connectorId": "HD_BNC_f",
       "compatibleSignalTypes": ["AES3ID"]
     },
     {
       "name": "OUTPUT 4",
       "direction": "OUT",
-      "connector": "HD_BNC_f",
+      "connectorId": "HD_BNC_f",
       "compatibleSignalTypes": ["AES3ID"]
     }
   ]

@@ -10,31 +10,31 @@
     {
       "name": "WCLK IN",
       "direction": "IN",
-      "connector": "BNC_f",
+      "connectorId": "BNC_f",
       "compatibleSignalTypes": ["WCLK"]
     },
     {
       "name": "WCLK OUT",
       "direction": "OUT",
-      "connector": "BNC_f",
+      "connectorId": "BNC_f",
       "compatibleSignalTypes": ["WCLK"]
     },
     {
       "name": "USB",
       "direction": "IN",
-      "connector": "USB2.0B_f",
+      "connectorId": "USB2.0B_f",
       "compatibleSignalTypes": ["USB_2"]
     },
     {
       "name": "RS 422",
       "direction": "IN",
-      "connector": "RJ45_f",
+      "connectorId": "RJ45_f",
       "compatibleSignalTypes": []
     },
     {
       "name": "CAN",
       "direction": "IN",
-      "connector": "RJ45_f",
+      "connectorId": "RJ45_f",
       "compatibleSignalTypes": []
     }
   ],

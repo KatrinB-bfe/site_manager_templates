@@ -4,7 +4,7 @@
   "name": "MADI SRC I/O",
   "orderCode": null,
   "orderNumber": "710/60",
-  "moduleFormFactor": "lawo-powercore-io",
+  "moduleFormFactorId": "lawo-powercore-io",
   "manufacturerId": "lawo",
   "portTypes": [],
   "moduleSlotTypes": [
