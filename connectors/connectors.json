@@ -70,6 +70,20 @@
     "compatibleConnectors": ["DSUB37p_f"]
   },
   {
+    "id": "DSUB15p_HD_f",
+    "name": "D-Sub HD 15p female",
+    "gender": "FEMALE",
+    "icon": "DSUB15p_HD_f",
+    "compatibleConnectors": ["DSUB15p_HD_m"]
+  },
+  {
+    "id": "DSUB15p_HD_m",
+    "name": "D-Sub HD 15p male",
+    "gender": "MALE",
+    "icon": "DSUB15p_HD_m",
+    "compatibleConnectors": ["DSUB15p_HD_f"]
+  },
+  {
     "id": "ETHERCON_f",
     "name": "ETHERCON female",
     "gender": "FEMALE",
@@ -242,14 +256,14 @@
     "name": "USB 2.0 A female",
     "gender": "FEMALE",
     "icon": "USB2.0A_f",
-    "compatibleConnectors": ["USB2.0A_m"]
+    "compatibleConnectors": ["USB2.0A_m", "USB3.0A_m"]
   },
   {
     "id": "USB2.0A_m",
     "name": "USB 2.0 A male",
     "gender": "MALE",
     "icon": "USB2.0A_m",
-    "compatibleConnectors": ["USB2.0A_f"]
+    "compatibleConnectors": ["USB2.0A_f", "USB3.0A_f"]
   },
   {
     "id": "USB2.0B_f",
@@ -264,6 +278,65 @@
     "gender": "MALE",
     "icon": "USB2.0B_m",
     "compatibleConnectors": ["USB2.0B_f"]
+  },
+
+  {
+    "id": "USB2.0A_MINI_f",
+    "name": "USB 2.0 mini A female",
+    "gender": "FEMALE",
+    "icon": "USB2.0A_MINI_f",
+    "compatibleConnectors": ["USB2.0A_MINI_m"]
+  },
+  {
+    "id": "USB2.0A_MINI_m",
+    "name": "USB 2.0 mini A male",
+    "gender": "MALE",
+    "icon": "USB2.0A_MINI_m",
+    "compatibleConnectors": ["USB2.0A_MINI_f"]
+  },
+
+  {
+    "id": "USB2.0B_MICRO_f",
+    "name": "USB 2.0 micro B female",
+    "gender": "FEMALE",
+    "icon": "USB2.0B_MICRO_f",
+    "compatibleConnectors": ["USB2.0B_MICRO_m"]
+  },
+  {
+    "id": "USB2.0B_MICRO_m",
+    "name": "USB 2.0 micro B male",
+    "gender": "MALE",
+    "icon": "USB2.0B_MICRO_m",
+    "compatibleConnectors": ["USB2.0B_MICRO_f"]
+  },
+
+  {
+    "id": "USB3.0A_f",
+    "name": "USB 3.0 A female",
+    "gender": "FEMALE",
+    "icon": "USB3.0A_f",
+    "compatibleConnectors": ["USB3.0A_m", "USB2.0A_m"]
+  },
+  {
+    "id": "USB3.0A_m",
+    "name": "USB 3.0 A male",
+    "gender": "MALE",
+    "icon": "USB3.0A_m",
+    "compatibleConnectors": ["USB3.0A_f", "USB2.0A_f"]
+  },
+  {
+    "id": "USB3.0B_f",
+    "name": "USB 3.0 B female",
+    "gender": "FEMALE",
+    "icon": "USB3.0B_f",
+    "compatibleConnectors": ["USB3.0B_m", "USB2.0B_m"]
+  },
+  {
+    "id": "USB3.0B_m",
+    "name": "USB 3.0 B male",
+    "gender": "MALE",
+    "icon": "USB3.0B_m",
+    "compatibleConnectors": ["USB3.0B_f"]
   },
   {
     "id": "USBC_f",
@@ -322,6 +395,34 @@
     "compatibleConnectors": ["HDMI_D_m"]
   },
   {
+    "id": "DISPLAYPORT_m",
+    "name": "DisplayPort male",
+    "gender": "MALE",
+    "icon": "DISPLAYPORT_m",
+    "compatibleConnectors": ["DISPLAYPORT_f"]
+  },
+  {
+    "id": "DISPLAYPORT_f",
+    "name": "DisplayPort female",
+    "gender": "FEMALE",
+    "icon": "DISPLAYPORT_f",
+    "compatibleConnectors": ["DISPLAYPORT_m"]
+  },
+  {
+    "id": "DISPLAYPORT_MINI_m",
+    "name": "Mini DisplayPort male",
+    "gender": "MALE",
+    "icon": "DISPLAYPORT_MINI_m",
+    "compatibleConnectors": ["DISPLAYPORT_MINI_f"]
+  },
+  {
+    "id": "DISPLAYPORT_MINI_f",
+    "name": "Mini DisplayPort female",
+    "gender": "FEMALE",
+    "icon": "DISPLAYPORT_MINI_f",
+    "compatibleConnectors": ["DISPLAYPORT_MINI_m"]
+  },
+  {
     "id": "XLR3p_f",
     "name": "XLR 3pole female",
     "gender": "FEMALE",
@@ -361,14 +462,28 @@
     "name": "TRS 3.5mm female",
     "gender": "FEMALE",
     "icon": "TRS_35_f",
-    "compatibleConnectors": ["TRS_35_m"]
+    "compatibleConnectors": ["TRS_35_m", "TRRS_35_m"]
   },
   {
     "id": "TRS_35_m",
     "name": "TRS 3.5mm male",
     "gender": "MALE",
     "icon": "TRS_35_m",
-    "compatibleConnectors": ["TRS_35_f"]
+    "compatibleConnectors": ["TRS_35_f", "TRRS_35_f"]
+  },
+  {
+    "id": "TRRS_35_f",
+    "name": "TRRS 3.5mm female",
+    "gender": "FEMALE",
+    "icon": "TRRS_35_f",
+    "compatibleConnectors": ["TRRS_35_m", "TRS_35_m"]
+  },
+  {
+    "id": "TRRS_35_m",
+    "name": "TRRS 3.5mm male",
+    "gender": "MALE",
+    "icon": "TRRS_35_m",
+    "compatibleConnectors": ["TRRS_35_f", "TRS_35_f"]
   },
   {
     "id": "TRS_635_f",

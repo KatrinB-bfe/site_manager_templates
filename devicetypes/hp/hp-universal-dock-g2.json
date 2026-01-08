@@ -1,0 +1,96 @@
+{
+  "version": "1.0",
+  "id": "hp-universal-dock-g2",
+  "name": "USB-C/A Universal Dock G2",
+  "manufacturerId": "hp",
+  "orderCode": null,
+  "orderNumber": "5TW13AA#ABB",
+  "climateLoad": 0,
+  "portTypes": [
+    {
+      "name": "DOCKING",
+      "direction": "IN",
+      "connectorId": "USBC_f",
+      "compatibleSignalTypes": [
+        "USB_1",
+        "USB_11",
+        "USB_2",
+        "USB_32_GEN1X1",
+        "DP_12",
+        "DP_14",
+        "DP_20"
+      ]
+    },
+    {
+      "name": "LAN",
+      "direction": "UP",
+      "connectorId": "RJ45_f",
+      "compatibleSignalTypes": ["1000BASE_T"]
+    },
+    {
+      "name": "DP",
+      "direction": "OUT",
+      "connectorId": "DISPLAYPORT_f",
+      "compatibleSignalTypes": ["DP_10", "DP_11", "DP_12", "DP_12A"]
+    },
+    {
+      "name": "DP",
+      "direction": "OUT",
+      "connectorId": "DISPLAYPORT_f",
+      "compatibleSignalTypes": ["DP_10", "DP_11", "DP_12", "DP_12A"]
+    },
+    {
+      "name": "HDMI",
+      "direction": "OUT",
+      "connectorId": "HDMI_A_f",
+      "compatibleSignalTypes": [
+        "HDMI_10",
+        "HDMI_11",
+        "HDMI_12",
+        "HDMI_12A",
+        "HDMI_13",
+        "HDMI_13A",
+        "HDMI_14",
+        "HDMI_14A",
+        "HDMI_14B",
+        "HDMI_20"
+      ]
+    },
+    {
+      "name": "Headset",
+      "direction": "BIDI",
+      "connectorId": "TRRS_35_f",
+      "compatibleSignalTypes": ["AUDIO_UNBAL_ANA_HEADSET"]
+    },
+    {
+      "name": "USB (back)",
+      "direction": "OUT",
+      "connectorId": "USB3.0A_f",
+      "compatibleSignalTypes": ["USB_1", "USB_11", "USB_2", "USB_32_GEN1X1"]
+    },
+    {
+      "name": "USB (back)",
+      "direction": "OUT",
+      "connectorId": "USB3.0A_f",
+      "compatibleSignalTypes": ["USB_1", "USB_11", "USB_2", "USB_32_GEN1X1"]
+    },
+    {
+      "name": "USB (side)",
+      "direction": "OUT",
+      "connectorId": "USB3.0A_f",
+      "compatibleSignalTypes": ["USB_1", "USB_11", "USB_2", "USB_32_GEN1X1"]
+    },
+    {
+      "name": "USB (side)",
+      "direction": "OUT",
+      "connectorId": "USB3.0A_f",
+      "compatibleSignalTypes": ["USB_1", "USB_11", "USB_2", "USB_32_GEN1X1"]
+    },
+    {
+      "name": "USB (front)",
+      "direction": "OUT",
+      "connectorId": "USBC_f",
+      "compatibleSignalTypes": ["USB_1", "USB_11", "USB_2", "USB_32_GEN1X1"]
+    }
+  ]
+}

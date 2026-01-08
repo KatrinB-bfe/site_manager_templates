@@ -195,6 +195,16 @@
     "description": ""
   },
   {
+    "id": "AUDIO_UNBAL_ANA_STEREO",
+    "name": "Unbalanced Stereo Analog Audio",
+    "description": "As found on consumer devices like PCs, smartphones"
+  },
+  {
+    "id": "AUDIO_UNBAL_ANA_HEADSET",
+    "name": "Unbalanced Headset Audio",
+    "description": "As found on consumer devices like PCs, smartphones"
+  },
+  {
     "id": "TOSLINK",
     "name": "TOSLINK",
     "description": ""
@@ -265,9 +275,49 @@
     "description": ""
   },
   {
+    "id": "USB_1",
+    "name": "USB 1.0",
+    "description": "1,5 Mbit/s or 12 Mbit/s, also known as Low-Speed, Full-Speed or Basic-Speed"
+  },
+  {
+    "id": "USB_11",
+    "name": "USB 1.1",
+    "description": "1,5 Mbit/s or 12 Mbit/s, also known as Low-Speed and Full-Speed"
+  },
+  {
     "id": "USB_2",
     "name": "USB 2.0",
-    "description": ""
+    "description": "480 Mbit/s, also known as High-Speed"
+  },
+  {
+    "id": "USB_32_GEN1X1",
+    "name": "USB 3.2 Gen 1x1",
+    "description": "5 Gbit/s, also known as USB 3.0, SuperSpeed or USB 5Gbps"
+  },
+  {
+    "id": "USB_32_GEN2X1",
+    "name": "USB 3.2 Gen 2x1",
+    "description": "10 Gbit/s, also known as USB 3.1, SuperSpeed+ or USB 10Gbps"
+  },
+  {
+    "id": "USB_32_GEN2X2",
+    "name": "USB 3.2 Gen 2x2",
+    "description": "20 Gbit/s, also known as USB 3.2, SuperSpeed USB 20 Gbps USB 20Gbps"
+  },
+  {
+    "id": "USB_4_GEN3X2",
+    "name": "USB 4 Gen 3x2",
+    "description": "40 Gbit/s, also known as USB 4 or USB 40Gbps"
+  },
+  {
+    "id": "USB_4_GEN4X2",
+    "name": "USB 4 Gen 4x2",
+    "description": "80 Gbit/s, also known as USB 4v2 or USB 80Gbps"
+  },
+  {
+    "id": "VGA",
+    "name": "VGA",
+    "description": "Video Graphics Array"
   },
   {
     "id": "HDMI_10",
@@ -347,6 +397,62 @@
   {
     "id": "HDMI_22",
     "name": "HDMI 2.2",
+    "description": ""
+  },
+
+  {
+    "id": "DP_10",
+    "name": "DisplayPort 1.0",
+    "description": ""
+  },
+  {
+    "id": "DP_11",
+    "name": "DisplayPort 1.1",
+    "description": ""
+  },
+  {
+    "id": "DP_12",
+    "name": "DisplayPort 1.2",
+    "description": ""
+  },
+  {
+    "id": "DP_12A",
+    "name": "DisplayPort 1.2a",
+    "description": ""
+  },
+  {
+    "id": "DP_13",
+    "name": "DisplayPort 1.3",
+    "description": ""
+  },
+  {
+    "id": "DP_14",
+    "name": "DisplayPort 1.4",
+    "description": ""
+  },
+  {
+    "id": "DP_14A",
+    "name": "DisplayPort 1.4a",
+    "description": ""
+  },
+  {
+    "id": "DP_20",
+    "name": "DisplayPort 2.0",
+    "description": ""
+  },
+  {
+    "id": "DP_21",
+    "name": "DisplayPort 2.1",
+    "description": ""
+  },
+  {
+    "id": "DP_21A",
+    "name": "DisplayPort 2.1a",
+    "description": ""
+  },
+  {
+    "id": "DP_21B",
+    "name": "DisplayPort 2.1b",
     "description": ""
   },
   {

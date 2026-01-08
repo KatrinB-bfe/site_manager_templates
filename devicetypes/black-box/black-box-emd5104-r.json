@@ -1,0 +1,114 @@
+{
+  "version": "1.0",
+  "id": "black-box-emd5104-r",
+  "name": "EMD5104-R",
+  "manufacturerId": "black-box",
+  "orderCode": null,
+  "orderNumber": "EMD5104-R",
+  "climateLoad": 90,
+  "portTypes": [
+    {
+      "name": "LAN",
+      "direction": "UP",
+      "connectorId": "RJ45_f",
+      "compatibleSignalTypes": ["1000BASE_T"]
+    },
+    {
+      "name": "",
+      "direction": "UP",
+      "connectorId": "RJ45_f",
+      "compatibleSignalTypes": []
+    },
+    {
+      "name": "DP",
+      "direction": "OUT",
+      "connectorId": "DISPLAYPORT_f",
+      "compatibleSignalTypes": ["DP_10", "DP_11", "DP_12", "DP_12A"]
+    },
+    {
+      "name": "DP",
+      "direction": "OUT",
+      "connectorId": "DISPLAYPORT_f",
+      "compatibleSignalTypes": ["DP_10", "DP_11", "DP_12", "DP_12A"]
+    },
+    {
+      "name": "DP",
+      "direction": "OUT",
+      "connectorId": "DISPLAYPORT_f",
+      "compatibleSignalTypes": ["DP_10", "DP_11", "DP_12", "DP_12A"]
+    },
+    {
+      "name": "DP",
+      "direction": "OUT",
+      "connectorId": "DISPLAYPORT_f",
+      "compatibleSignalTypes": ["DP_10", "DP_11", "DP_12", "DP_12A", "DP_13"]
+    },
+    {
+      "name": "3.5mm Audio",
+      "direction": "OUT",
+      "connectorId": "TRS_35_f",
+      "compatibleSignalTypes": ["AUDIO_UNBAL_ANA_STEREO"]
+    },
+    {
+      "name": "3.5mm Mic",
+      "direction": "BIDI",
+      "connectorId": "TRRS_35_f",
+      "compatibleSignalTypes": ["AUDIO_UNBAL_ANA_HEADSET"]
+    },
+    {
+      "name": "USB SS10 (front)",
+      "direction": "OUT",
+      "connectorId": "USB3.0A_f",
+      "compatibleSignalTypes": [
+        "USB_1",
+        "USB_11",
+        "USB_2",
+        "USB_32_GEN1X1",
+        "USB_32_GEN2X1"
+      ]
+    },
+    {
+      "name": "USB SS20 (front)",
+      "direction": "OUT",
+      "connectorId": "USBC_f",
+      "compatibleSignalTypes": [
+        "USB_1",
+        "USB_11",
+        "USB_2",
+        "USB_32_GEN1X1",
+        "USB_32_GEN2X1",
+        "USB_32_GEN2X2"
+      ]
+    },
+    {
+      "name": "USB SS5 (back)",
+      "direction": "OUT",
+      "connectorId": "USB3.0A_f",
+      "compatibleSignalTypes": ["USB_1", "USB_11", "USB_2", "USB_32_GEN1X1"]
+    },
+    {
+      "name": "USB SS10 (back)",
+      "direction": "OUT",
+      "connectorId": "USB3.0A_f",
+      "compatibleSignalTypes": [
+        "USB_1",
+        "USB_11",
+        "USB_2",
+        "USB_32_GEN1X1",
+        "USB_32_GEN2X1"
+      ]
+    },
+    {
+      "name": "USB SS10 (back)",
+      "direction": "OUT",
+      "connectorId": "USB3.0A_f",
+      "compatibleSignalTypes": [
+        "USB_1",
+        "USB_11",
+        "USB_2",
+        "USB_32_GEN1X1",
+        "USB_32_GEN2X1"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "version": "1.0",
+  "id": "lawo-power-core-aiox",
+  "name": "Power Core Audio I/O Extender",
+  "manufacturerId": "lawo",
+  "orderCode": null,
+  "orderNumber": "710/12",
+  "climateLoad": 60,
+  "portTypes": [],
+  "moduleSlotTypes": [
+    {
+      "name": "AIOX 1",
+      "compatibleModuleSlotFormFactors": ["sfp"],
+      "compatibleModuleTypes": [
+        "lawo-98160-80",
+        "lawo-98160-81",
+        "lawo-98160-82"
+      ],
+      "incompatibleModuleTypes": []
+    },
+    {
+      "name": "AIOX 2",
+      "compatibleModuleSlotFormFactors": ["sfp"],
+      "compatibleModuleTypes": [
+        "lawo-98160-80",
+        "lawo-98160-81",
+        "lawo-98160-82"
+      ],
+      "incompatibleModuleTypes": []
+    },
+    {
+      "name": "Slot 1",
+      "compatibleModuleSlotFormFactors": ["lawo-powercore-io"],
+      "compatibleModuleTypes": [],
+      "incompatibleModuleTypes": [
+        "lawo-micline-in",
+        "lawo-gpio",
+        "dante-io",
+        "madi-io",
+        "madi-src-io"
+      ]
+    },
+    {
+      "name": "Slot 2",
+      "compatibleModuleSlotFormFactors": ["lawo-powercore-io"],
+      "compatibleModuleTypes": [],
+      "incompatibleModuleTypes": [
+        "lawo-gpio",
+        "dante-io",
+        "madi-io",
+        "madi-src-io"
+      ]
+    },
+
+    {
+      "name": "Slot 3",
+      "compatibleModuleSlotFormFactors": ["lawo-powercore-io"],
+      "compatibleModuleTypes": [],
+      "incompatibleModuleTypes": [
+        "lawo-micline-in",
+        "lawo-gpio",
+        "dante-io",
+        "madi-io",
+        "madi-src-io"
+      ]
+    },
+    {
+      "name": "Slot 4",
+      "compatibleModuleSlotFormFactors": ["lawo-powercore-io"],
+      "compatibleModuleTypes": [],
+      "incompatibleModuleTypes": [
+        "lawo-gpio",
+        "dante-io",
+        "madi-io",
+        "madi-src-io"
+      ]
+    },
+
+    {
+      "name": "Slot 5",
+      "compatibleModuleSlotFormFactors": ["lawo-powercore-io"],
+      "compatibleModuleTypes": [],
+      "incompatibleModuleTypes": [
+        "lawo-micline-in",
+        "lawo-gpio",
+        "dante-io",
+        "madi-io",
+        "madi-src-io"
+      ]
+    },
+    {
+      "name": "Slot 6",
+      "compatibleModuleSlotFormFactors": ["lawo-powercore-io"],
+      "compatibleModuleTypes": [],
+      "incompatibleModuleTypes": [
+        "lawo-gpio",
+        "dante-io",
+        "madi-io",
+        "madi-src-io"
+      ]
+    },
+
+    {
+      "name": "Slot 7",
+      "compatibleModuleSlotFormFactors": ["lawo-powercore-io"],
+      "compatibleModuleTypes": [],
+      "incompatibleModuleTypes": [
+        "lawo-micline-in",
+        "dante-io",
+        "madi-io",
+        "madi-src-io"
+      ]
+    },
+    {
+      "name": "Slot 8",
+      "compatibleModuleSlotFormFactors": ["lawo-powercore-io"],
+      "compatibleModuleTypes": [],
+      "incompatibleModuleTypes": ["dante-io", "madi-io", "madi-src-io"]
+    }
+  ]
+}

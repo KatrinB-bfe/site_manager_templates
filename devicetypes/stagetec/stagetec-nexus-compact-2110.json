@@ -1,0 +1,60 @@
+{
+  "version": "1.0",
+  "id": "stagetec-nexus-compact-2110",
+  "name": "NEXUS compact (2110)",
+  "manufacturerId": "stagetec",
+  "orderCode": "NXCT-ST2110",
+  "orderNumber": "121603",
+  "climateLoad": 21,
+  "portTypes": [
+    {
+      "name": "Headphones",
+      "direction": "OUT",
+      "connectorId": "TRS_635_f",
+      "compatibleSignalTypes": ["PHONES_ANA"]
+    },
+    {
+      "name": "CTRL",
+      "direction": "UP",
+      "connectorId": "RJ45_f",
+      "compatibleSignalTypes": ["100BASE_TX", "1000BASE_T"]
+    },
+    {
+      "name": "PRI",
+      "direction": "UP",
+      "connectorId": "RJ45_f",
+      "compatibleSignalTypes": ["100BASE_TX", "1000BASE_T"]
+    },
+    {
+      "name": "SEC",
+      "direction": "UP",
+      "connectorId": "RJ45_f",
+      "compatibleSignalTypes": ["100BASE_TX", "1000BASE_T"]
+    },
+    {
+      "name": "MIC",
+      "direction": "IN",
+      "connectorId": "DSUB25p_f",
+      "compatibleSignalTypes": ["AES59_ANA"]
+    },
+    {
+      "name": "D/A",
+      "direction": "OUT",
+      "connectorId": "DSUB25p_f",
+      "compatibleSignalTypes": ["AES59_ANA"]
+    },
+    {
+      "name": "AES3 I/O",
+      "direction": "BIDI",
+      "connectorId": "DSUB25p_f",
+      "compatibleSignalTypes": ["AES59_DIGI_IO"]
+    },
+    {
+      "name": "GPIO",
+      "direction": "BIDI",
+      "connectorId": "DSUB25p_f",
+      "compatibleSignalTypes": ["GPIO"]
+    }
+  ],
+  "moduleSlotTypes": []
+}

@@ -1,0 +1,67 @@
+{
+  "version": "1.0",
+  "id": "dell-p2225h",
+  "name": "P2225H",
+  "manufacturerId": "black-box",
+  "orderCode": null,
+  "orderNumber": "P2225H",
+  "climateLoad": 60,
+  "portTypes": [
+    {
+      "name": "DP",
+      "direction": "IN",
+      "connectorId": "DISPLAYPORT_f",
+      "compatibleSignalTypes": ["DP_10", "DP_11", "DP_12", "DP_12A"]
+    },
+    {
+      "name": "HDMI",
+      "direction": "IN",
+      "connectorId": "HDMI_A_f",
+      "compatibleSignalTypes": [
+        "HDMI_10",
+        "HDMI_11",
+        "HDMI_12",
+        "HDMI_12A",
+        "HDMI_13",
+        "HDMI_13A",
+        "HDMI_14"
+      ]
+    },
+    {
+      "name": "VGA",
+      "direction": "IN",
+      "connectorId": "DSUB15p_HD_f",
+      "compatibleSignalTypes": ["VGA"]
+    },
+    {
+      "name": "USB",
+      "direction": "IN",
+      "connectorId": "USB3.0B_f",
+      "compatibleSignalTypes": ["USB_1", "USB_11", "USB_2", "USB_32_GEN1X1"]
+    },
+    {
+      "name": "USB 5",
+      "direction": "OUT",
+      "connectorId": "USB3.0A_f",
+      "compatibleSignalTypes": ["USB_1", "USB_11", "USB_2", "USB_32_GEN1X1"]
+    },
+    {
+      "name": "USB 5",
+      "direction": "OUT",
+      "connectorId": "USB3.0A_f",
+      "compatibleSignalTypes": ["USB_1", "USB_11", "USB_2", "USB_32_GEN1X1"]
+    },
+    {
+      "name": "USB 5",
+      "direction": "OUT",
+      "connectorId": "USB3.0A_f",
+      "compatibleSignalTypes": ["USB_1", "USB_11", "USB_2", "USB_32_GEN1X1"]
+    },
+    {
+      "name": "USB 5",
+      "direction": "OUT",
+      "connectorId": "USBC_f",
+      "compatibleSignalTypes": ["USB_1", "USB_11", "USB_2", "USB_32_GEN1X1"]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "version": "1.0",
+  "id": "black-box-emd2002pe-dp-t",
+  "name": "EMD2002PE-DP-T",
+  "manufacturerId": "black-box",
+  "orderCode": null,
+  "orderNumber": "EMD2002PE-DP-T",
+  "climateLoad": 36,
+  "portTypes": [
+    {
+      "name": "LAN 1",
+      "direction": "UP",
+      "connectorId": "RJ45_f",
+      "compatibleSignalTypes": ["10BASE_T", "100BASE_TX", "1000BASE_T"]
+    },
+    {
+      "name": "DP1",
+      "direction": "IN",
+      "connectorId": "DISPLAYPORT_f",
+      "compatibleSignalTypes": ["DP_10", "DP_11", "DP_12", "DP_12A"]
+    },
+    {
+      "name": "DP2",
+      "direction": "IN",
+      "connectorId": "DISPLAYPORT_f",
+      "compatibleSignalTypes": ["DP_10", "DP_11", "DP_12", "DP_12A"]
+    },
+    {
+      "name": "USB",
+      "direction": "IN",
+      "connectorId": "USB2.0B_f",
+      "compatibleSignalTypes": ["USB_1", "USB_11", "USB_2"]
+    },
+    {
+      "name": "3.5mm Audio",
+      "direction": "IN",
+      "connectorId": "TRS_35_f",
+      "compatibleSignalTypes": ["AUDIO_UNBAL_ANA_STEREO"]
+    },
+    {
+      "name": "Console",
+      "direction": "IN",
+      "connectorId": "USB2.0B_MICRO_f",
+      "compatibleSignalTypes": []
+    }
+  ],
+  "moduleSlotTypes": [
+    {
+      "name": "LAN 2",
+      "compatibleModuleSlotFormFactors": ["sfp"],
+      "compatibleModuleTypes": [],
+      "incompatibleModuleTypes": []
+    }
+  ]
+}

@@ -1,8 +1,18 @@
 [
   {
+    "id": "black-box",
+    "name": "Black Box Ltd.",
+    "nameShort": "Black Box"
+  },
+  {
     "id": "blackmagic",
     "name": "Blackmagic Design Pty. Ltd.",
     "nameShort": "Blackmagic"
+  },
+  {
+    "id": "dell",
+    "name": "Dell Inc.",
+    "nameShort": "Dell"
   },
   {
     "id": "dhd",
@@ -23,6 +33,11 @@
     "id": "genelec",
     "name": "Genelec Oy",
     "nameShort": "Genelec"
+  },
+  {
+    "id": "hp",
+    "name": "HP Inc.",
+    "nameShort": "HP"
   },
   {
     "id": "imagine",
@@ -58,6 +73,11 @@
     "id": "riedel",
     "name": "Riedel Communications GmbH",
     "nameShort": "Riedel"
+  },
+  {
+    "id": "stagetec",
+    "name": "STAGETEC GmbH",
+    "nameShort": "Stagetec"
   },
   {
     "id": "sennheiser",
