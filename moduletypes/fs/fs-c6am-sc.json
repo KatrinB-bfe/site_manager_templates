@@ -1,0 +1,23 @@
+{
+  "version": "1.0",
+  "id": "fs-c6am-sc",
+  "name": "C6AM-SC",
+  "orderCode": "C6AM-SC",
+  "orderNumber": "118905",
+  "moduleFormFactorId": "keystone",
+  "manufacturerId": "fs",
+  "portTypes": [
+    {
+      "name": "Front",
+      "direction": "FRONT",
+      "connectorId": "RJ45_f",
+      "compatibleSignalTypes": []
+    },
+    {
+      "name": "Rear",
+      "direction": "REAR",
+      "connectorId": "RJ45_f",
+      "compatibleSignalTypes": []
+    }
+  ]
+}

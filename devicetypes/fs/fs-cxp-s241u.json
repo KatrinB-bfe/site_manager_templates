@@ -1,0 +1,156 @@
+{
+  "version": "1.0",
+  "id": "fs-cxp-s241u",
+  "name": "CXP-S241U",
+  "manufacturerId": "fs",
+  "orderCode": "SXP-S241U",
+  "orderNumber": "69182",
+  "climateLoad": 0,
+  "portTypes": [],
+  "moduleSlotTypes": [
+    {
+      "name": "1",
+      "compatibleModuleSlotFormFactors": ["keystone"],
+      "compatibleModuleTypes": [],
+      "incompatibleModuleTypes": []
+    },
+    {
+      "name": "2",
+      "compatibleModuleSlotFormFactors": ["keystone"],
+      "compatibleModuleTypes": [],
+      "incompatibleModuleTypes": []
+    },
+    {
+      "name": "3",
+      "compatibleModuleSlotFormFactors": ["keystone"],
+      "compatibleModuleTypes": [],
+      "incompatibleModuleTypes": []
+    },
+    {
+      "name": "4",
+      "compatibleModuleSlotFormFactors": ["keystone"],
+      "compatibleModuleTypes": [],
+      "incompatibleModuleTypes": []
+    },
+    {
+      "name": "5",
+      "compatibleModuleSlotFormFactors": ["keystone"],
+      "compatibleModuleTypes": [],
+      "incompatibleModuleTypes": []
+    },
+    {
+      "name": "6",
+      "compatibleModuleSlotFormFactors": ["keystone"],
+      "compatibleModuleTypes": [],
+      "incompatibleModuleTypes": []
+    },
+    {
+      "name": "7",
+      "compatibleModuleSlotFormFactors": ["keystone"],
+      "compatibleModuleTypes": [],
+      "incompatibleModuleTypes": []
+    },
+    {
+      "name": "8",
+      "compatibleModuleSlotFormFactors": ["keystone"],
+      "compatibleModuleTypes": [],
+      "incompatibleModuleTypes": []
+    },
+    {
+      "name": "9",
+      "compatibleModuleSlotFormFactors": ["keystone"],
+      "compatibleModuleTypes": [],
+      "incompatibleModuleTypes": []
+    },
+    {
+      "name": "10",
+      "compatibleModuleSlotFormFactors": ["keystone"],
+      "compatibleModuleTypes": [],
+      "incompatibleModuleTypes": []
+    },
+    {
+      "name": "11",
+      "compatibleModuleSlotFormFactors": ["keystone"],
+      "compatibleModuleTypes": [],
+      "incompatibleModuleTypes": []
+    },
+    {
+      "name": "12",
+      "compatibleModuleSlotFormFactors": ["keystone"],
+      "compatibleModuleTypes": [],
+      "incompatibleModuleTypes": []
+    },
+    {
+      "name": "13",
+      "compatibleModuleSlotFormFactors": ["keystone"],
+      "compatibleModuleTypes": [],
+      "incompatibleModuleTypes": []
+    },
+    {
+      "name": "14",
+      "compatibleModuleSlotFormFactors": ["keystone"],
+      "compatibleModuleTypes": [],
+      "incompatibleModuleTypes": []
+    },
+    {
+      "name": "15",
+      "compatibleModuleSlotFormFactors": ["keystone"],
+      "compatibleModuleTypes": [],
+      "incompatibleModuleTypes": []
+    },
+    {
+      "name": "16",
+      "compatibleModuleSlotFormFactors": ["keystone"],
+      "compatibleModuleTypes": [],
+      "incompatibleModuleTypes": []
+    },
+    {
+      "name": "17",
+      "compatibleModuleSlotFormFactors": ["keystone"],
+      "compatibleModuleTypes": [],
+      "incompatibleModuleTypes": []
+    },
+    {
+      "name": "18",
+      "compatibleModuleSlotFormFactors": ["keystone"],
+      "compatibleModuleTypes": [],
+      "incompatibleModuleTypes": []
+    },
+    {
+      "name": "19",
+      "compatibleModuleSlotFormFactors": ["keystone"],
+      "compatibleModuleTypes": [],
+      "incompatibleModuleTypes": []
+    },
+    {
+      "name": "20",
+      "compatibleModuleSlotFormFactors": ["keystone"],
+      "compatibleModuleTypes": [],
+      "incompatibleModuleTypes": []
+    },
+    {
+      "name": "21",
+      "compatibleModuleSlotFormFactors": ["keystone"],
+      "compatibleModuleTypes": [],
+      "incompatibleModuleTypes": []
+    },
+    {
+      "name": "22",
+      "compatibleModuleSlotFormFactors": ["keystone"],
+      "compatibleModuleTypes": [],
+      "incompatibleModuleTypes": []
+    },
+    {
+      "name": "23",
+      "compatibleModuleSlotFormFactors": ["keystone"],
+      "compatibleModuleTypes": [],
+      "incompatibleModuleTypes": []
+    },
+    {
+      "name": "24",
+      "compatibleModuleSlotFormFactors": ["keystone"],
+      "compatibleModuleTypes": [],
+      "incompatibleModuleTypes": []
+    }
+  ]
+}

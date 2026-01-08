@@ -35,9 +35,9 @@
       "incompatibleModuleTypes": [
         "lawo-micline-in",
         "lawo-gpio",
-        "dante-io",
-        "madi-io",
-        "madi-src-io"
+        "lawo-dante-io",
+        "lawo-madi-io",
+        "lawo-madi-src-io"
       ]
     },
     {
@@ -46,9 +46,9 @@
       "compatibleModuleTypes": [],
       "incompatibleModuleTypes": [
         "lawo-gpio",
-        "dante-io",
-        "madi-io",
-        "madi-src-io"
+        "lawo-dante-io",
+        "lawo-madi-io",
+        "lawo-madi-src-io"
       ]
     },
 
@@ -59,9 +59,9 @@
       "incompatibleModuleTypes": [
         "lawo-micline-in",
         "lawo-gpio",
-        "dante-io",
-        "madi-io",
-        "madi-src-io"
+        "lawo-dante-io",
+        "lawo-madi-io",
+        "lawo-madi-src-io"
       ]
     },
     {
@@ -70,9 +70,9 @@
       "compatibleModuleTypes": [],
       "incompatibleModuleTypes": [
         "lawo-gpio",
-        "dante-io",
-        "madi-io",
-        "madi-src-io"
+        "lawo-dante-io",
+        "lawo-madi-io",
+        "lawo-madi-src-io"
       ]
     },
 
@@ -83,9 +83,9 @@
       "incompatibleModuleTypes": [
         "lawo-micline-in",
         "lawo-gpio",
-        "dante-io",
-        "madi-io",
-        "madi-src-io"
+        "lawo-dante-io",
+        "lawo-madi-io",
+        "lawo-madi-src-io"
       ]
     },
     {
@@ -94,9 +94,9 @@
       "compatibleModuleTypes": [],
       "incompatibleModuleTypes": [
         "lawo-gpio",
-        "dante-io",
-        "madi-io",
-        "madi-src-io"
+        "lawo-dante-io",
+        "lawo-madi-io",
+        "lawo-madi-src-io"
       ]
     },
 
@@ -106,16 +106,20 @@
       "compatibleModuleTypes": [],
       "incompatibleModuleTypes": [
         "lawo-micline-in",
-        "dante-io",
-        "madi-io",
-        "madi-src-io"
+        "lawo-dante-io",
+        "lawo-madi-io",
+        "lawo-madi-src-io"
       ]
     },
     {
       "name": "Slot 8",
       "compatibleModuleSlotFormFactors": ["lawo-powercore-io"],
       "compatibleModuleTypes": [],
-      "incompatibleModuleTypes": ["dante-io", "madi-io", "madi-src-io"]
+      "incompatibleModuleTypes": [
+        "lawo-dante-io",
+        "lawo-madi-io",
+        "lawo-madi-src-io"
+      ]
     }
   ]
 }
