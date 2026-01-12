@@ -22,6 +22,7 @@ jobs:
           ajv validate \
             -s schemas/devicetype.schema.json \
             -d "devicetypes/**/*.json" \
+            --spec=draft2020 \
             --all-errors
 
       - name: Validate module types
@@ -29,4 +30,5 @@ jobs:
           ajv validate \
             -s schemas/moduletype.schema.json \
             -d "moduletypes/**/*.json" \
+            --spec=draft2020 \
             --all-errors
