@@ -99,28 +99,28 @@
           "compatibleModuleSlotFormFactors": {
             "description": "List of module slot factors that can physically fit into the slot.",
             "type": "array",
+            "uniqueItems": true,
             "items": {
               "type": "string",
-              "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
-              "uniqueItems": true
+              "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
             }
           },
           "compatibleModuleTypes": {
             "description": "List of module types that are guranteed by the manufacturer to work in this slot.",
             "type": "array",
+            "uniqueItems": true,
             "items": {
               "type": "string",
-              "pattern": "^(?=.{1,48}$)(?!.*--)[a-z](?:[a-z-]{0,14}[a-z])?-[a-z0-9](?:[a-z0-9-]*[a-z0-9])?$",
-              "uniqueItems": true
+              "pattern": "^(?=.{1,48}$)(?!.*--)[a-z](?:[a-z-]{0,14}[a-z])?-[a-z0-9](?:[a-z0-9-]*[a-z0-9])?$"
             }
           },
           "incompatibleModuleTypes": {
             "description": "List of module types that are guranteed by the manufacturer not work in this module slot.",
             "type": "array",
+            "uniqueItems": true,
             "items": {
               "type": "string",
-              "pattern": "^(?=.{1,48}$)(?!.*--)[a-z](?:[a-z-]{0,14}[a-z])?-[a-z0-9](?:[a-z0-9-]*[a-z0-9])?$",
-              "uniqueItems": true
+              "pattern": "^(?=.{1,48}$)(?!.*--)[a-z](?:[a-z-]{0,14}[a-z])?-[a-z0-9](?:[a-z0-9-]*[a-z0-9])?$"
             }
           }
         },
