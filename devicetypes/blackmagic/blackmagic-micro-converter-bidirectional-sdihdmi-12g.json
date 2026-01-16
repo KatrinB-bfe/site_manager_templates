@@ -1,17 +1,18 @@
 {
   "version": "1.0",
-  "id": "blackmagic-microconverter-12g",
-  "name": "MicroConverter HDMI-12G",
+  "id": "blackmagic-micro-converter-bidirectional-sdihdmi-12g",
+  "name": "Micro Converter BiDirectional SDI/HDMI 12G",
   "manufacturerId": "blackmagic",
   "orderCode": null,
   "orderNumber": null,
-  "climateLoad": 21,
+  "climateLoad": 5,
   "portTypes": [
     {
       "name": "SDI IN",
       "direction": "IN",
       "connectorId": "BNC_f",
       "compatibleSignalTypes": [
+        "SDI_SD_CU",
         "SDI_HD_CU",
         "SDI_3G_CU",
         "SDI_6G_CU",
@@ -22,6 +23,7 @@
       "direction": "OUT",
       "connectorId": "BNC_f",
       "compatibleSignalTypes": [
+        "SDI_SD_CU",
         "SDI_HD_CU",
         "SDI_3G_CU",
         "SDI_6G_CU",
@@ -35,7 +37,15 @@
         "HDMI_11",
         "HDMI_12",
         "HDMI_12A",
-        "HDMI_13","HDMI_13A","HDMI_14","HDMI_14A","HDMI_14B","HDMI_20","HDMI_20A","HDMI_20B","HDMI_21","HDMI_21A","HDMI_21B","HDMI_22"]
+        "HDMI_13",
+        "HDMI_13A",
+        "HDMI_14",
+        "HDMI_14A",
+        "HDMI_14B",
+        "HDMI_20",
+        "HDMI_20A",
+        "HDMI_20B"
+      ]
     },
     {
       "name": "HDMI OUT",
@@ -45,7 +55,25 @@
         "HDMI_11",
         "HDMI_12",
         "HDMI_12A",
-        "HDMI_13","HDMI_13A","HDMI_14","HDMI_14A","HDMI_14B","HDMI_20","HDMI_20A","HDMI_20B","HDMI_21","HDMI_21A","HDMI_21B","HDMI_22"]
+        "HDMI_13",
+        "HDMI_13A",
+        "HDMI_14",
+        "HDMI_14A",
+        "HDMI_14B",
+        "HDMI_20",
+        "HDMI_20A",
+        "HDMI_20B"
+      ]
+    },
+    {
+      "name": "USB POWER",
+      "direction": "IN",
+      "connectorId": "USBC_f",
+      "compatibleSignalTypes": [
+        "USB_1",
+        "USB_11",
+        "USB_2"
+      ]
     }
   ]
 }
