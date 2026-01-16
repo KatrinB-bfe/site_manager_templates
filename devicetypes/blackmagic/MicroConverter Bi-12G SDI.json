@@ -30,7 +30,7 @@
     {
        "name": "HDMI IN",
       "direction": "IN",
-      "connectorId": "HDMI_A",
+      "connectorId": "HDMI_A_f",
       "compatibleSignalTypes": [
         "HDMI_11",
         "HDMI_12",
@@ -40,7 +40,7 @@
     {
       "name": "HDMI OUT",
       "direction": "OUT",
-      "connectorId": "HDMI_A",
+      "connectorId": "HDMI_A_f",
       "compatibleSignalTypes": [
         "HDMI_11",
         "HDMI_12",
